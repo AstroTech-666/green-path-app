@@ -1,0 +1,149 @@
+name: green_path
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  sqflite: ^2.0.0+4  # For mobile apps
+  path_provider: ^2.0.3  # For finding the correct path to store the database
+  shared_preferences: ^2.3.2
+  cloud_firestore: ^5.4.4
+  firebase_core: ^3.6.0
+  video_player: ^2.9.2
+  url_launcher: ^6.3.0
+  http: ^1.2.2
+  carousel_slider: ^5.0.0
+  smooth_page_indicator: ^1.2.0+3
+  animations: ^2.0.11
+  audioplayers: ^6.1.0
+  flutter_animate: ^4.5.0
+  google_fonts: ^6.2.1
+  confetti: ^0.8.0
+  share_plus: ^10.0.2
+  intl: ^0.19.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  webview_flutter: ^4.9.0
+  fl_chart: ^0.69.0
+  path: ^1.9.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/green_path_logo.png
+
+    - assets/images/startingscreen.jpg
+    - assets/images/sustainability_image.jpg
+    - assets/videos/sustainability_video.mp4
+    - assets/images/eco_toothbrush.jpg
+    - assets/images/organic_cotton_tote_bag.jpg
+    - assets/images/stainless_steel_water_bottle.jpg
+    - assets/images/compostable_food_wrap.jpg
+    - assets/images/reusable_silicone_food_bags.jpg
+    - assets/images/bamboo_cutlery_set.jpg
+    - assets/images/eco_friendly_yoga_mat.jpg
+    - assets/images/solar_powered_phone_charger.jpg
+    - assets/images/biodegradable_leaning_sponges.jpg
+    - assets/images/eco_friendly_laundry_detergent.jpg
+    - assets/images/reusable_beeswax_food_wraps.jpg
+    - assets/images/eco_friendly_coffee_mug.jpg
+    - assets/images/compostable_dog_waste_bags.jpg
+    - assets/images/organic_hemp_soap.jpg
+    - assets/images/biodegradable_phone_case.jpg
+    - assets/images/natural_loofah_sponge.jpg
+    - assets/images/eco_friendly_hair_brush.jpg
+    - assets/images/sustainable_yoga_block.jpg
+    - assets/images/reusable_cloth_napkins.jpg
+    - assets/images/eco_friendly_dish_soap.jpg
+    - assets/images/recycled_paper_notebooks.jpg
+    - assets/images/solar_powered_garden_lights.jpg
+    - assets/images/natural_rubber_balloons.jpg
+    - assets/images/compostable_coffee_pods.jpg
+    - assets/images/eco_friendly_paint.jpg
+    - assets/images/biodegradable_glitter.jpg
+    - assets/images/organic_cotton_baby_clothes.jpg
+    - assets/images/natural_insect_repellent.jpg
+    - assets/images/reusable_snack_bags.jpg
+    - assets/images/eco_friendly_cleaning_spray.jpg
+    - assets/images/bamboo_toilet_paper.jpg
+    - assets/images/reusable_coffee_filter.jpg
+    - assets/images/natural_fiber_basket.jpg
+    - assets/images/organic_waste.jpg
+    - assets/images/hazardous_waste.jpg
+    - assets/images/solid_waste.jpg
+    - assets/images/liquid_waste.jpg
+    - assets/images/recyclable_waste.jpg
+    - assets/images/packaging_waste.jpg
+    - assets/images/post_consumer_waste.jpg
+    - assets/images/residual_waste.jpg
+    - assets/images/fruit_vegetable_scraps.jpg
+    - assets/images/coffee_grounds.jpg
+    - assets/images/eggshells.jpg
+    - assets/images/grass_clippings.jpg
+    - assets/images/leaves.jpg
+    - assets/images/shredded_newspaper.jpg
+    - assets/images/sawdust.jpg
+    - assets/images/yard_waste.jpg
+    - assets/images/paper_towels.jpg
+    - assets/images/cardboard.jpg
+    - assets/images/plastic_bottle.jpg
+    - assets/images/reusable_bag.jpg
+    - assets/images/compost_bin.jpg
+    - assets/images/recycle_paper.jpg
+    - assets/images/chemical_waste.jpg
+    - assets/images/electronic_waste.jpg
+    - assets/images/battery_disposal.jpg
+    - assets/images/paint_disposal.jpg
+    - assets/images/recycle.jpg
+    - assets/images/data_safety.jpg
+    - assets/images/avoid_landfills.jpg
+    - assets/images/local_events.jpg
+    - assets/images/impact.jpg
+    - assets/images/repair.jpg
+    - assets/images/eco_friendly.jpg
+    - assets/images/educate.jpg
+    - assets/images/sustainable_packaging_header.jpg
+    - assets/images/packing_peanuts.jpg
+    - assets/images/recycled_boxes.jpg
+    - assets/images/compostable_pods.jpg
+
+    - assets/videos/correct.mp3
+    - assets/videos/wrong.mp3
+    - assets/videos/background_music.mp3
+
+    - assets/images/waste_background.jpg
+
+    - assets/images/recycling_theme.jpg
+    - assets/images/composting_theme.jpg
+    - assets/images/e_waste_background.jpg
+    - assets/images/hazardous_theme.jpg
+    - assets/images/waste_background.jpg
+
+    - assets/icons/carbon_footprint_icon.png
+    - assets/icons/energy_tracker_icon.png
+    - assets/icons/water_usage_icon.png
+    - assets/icons/eco_product_icon.png
+    - assets/icons/waste_management_icon.png
+    - assets/icons/sustainability_tips_icon.png
+    - assets/icons/personal_goals_icon.png
+    - assets/icons/educational_resources_icon.png
+    - assets/icons/icon_tv.png
+    - assets/icons/icon_ac.png
+    - assets/icons/icon_microwave.png
+    - assets/icons/icon_fridge.png
+    - assets/icons/icon_oven.png
+    - assets/icons/icon_lamp.png
+    - assets/icons/icon_led.png
+    - assets/icons/default.png
+

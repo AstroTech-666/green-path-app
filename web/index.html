@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="green_path">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png" />
+
+  <title>green_path</title>
+  <link rel="manifest" href="manifest.json">
+
+  <!-- Firebase SDKs -->
+  <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-firestore.js"></script>
+
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyCwkiUIBvjKmghOTr4QDbVROZNjmeaWWuY",
+      authDomain: "green-path-31b8d.firebaseapp.com", // This is derived from your project ID
+      projectId: "green-path-31b8d",
+      storageBucket: "green-path-31b8d.appspot.com",
+      messagingSenderId: "457925400165", // This is your project number
+      appId: "1:457925400165:android:7c2599107ac0f51486988c" // Use the mobile SDK app ID for the primary Android app
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
+</head>
+
+<body>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+
+</html>
