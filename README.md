@@ -36,7 +36,6 @@ Follow these steps to set up Green Path locally:
       ```bash
    flutter run
 
-
 Contact
 For questions or feedback, feel free to reach out:
 
