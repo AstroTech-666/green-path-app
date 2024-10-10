@@ -40,5 +40,5 @@ Contact
 For questions or feedback, feel free to reach out:
 
 Email: abdulzadafarzana38@gmail.com
-      ```bash
+
 Email: farzana@greenpathorg.com
