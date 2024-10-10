@@ -4,7 +4,7 @@
 
 Green Path is an innovative mobile application designed to empower users to make sustainable choices and track their environmental impact. 
 
-![App Screenshot](assets/Green Gradient Application Showcase Presentation.jpg)
+![App Screenshot](assets/app_photo.jpg)
 
 ## Features
 
@@ -25,12 +25,15 @@ Follow these steps to set up Green Path locally:
    ```bash
    git clone https://github.com/AstroTech-666/green-path-app.git
 2. Navigate to the project directory:
+      ```bash
    cd green-path-app
    
 3. Install dependencies:
+      ```bash
    flutter pub get
 
 4. Run the app:
+      ```bash
    flutter run
 
 
@@ -38,4 +41,5 @@ Contact
 For questions or feedback, feel free to reach out:
 
 Email: abdulzadafarzana38@gmail.com
+      ```bash
 Email: farzana@greenpathorg.com
