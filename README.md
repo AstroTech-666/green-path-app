@@ -41,4 +41,4 @@ For questions or feedback, feel free to reach out:
 
 Email: abdulzadafarzana38@gmail.com
 
-Email: farzana@greenpathorg.com
+- Green Path Overview: Visit [Green Path](https://hundred.org/en/innovations/green-path) for more information about the app's features and impact on promoting sustainable choices.
