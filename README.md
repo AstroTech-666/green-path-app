@@ -36,6 +36,9 @@ Follow these steps to set up Green Path locally:
       ```bash
    flutter run
 
+## Download
+You can download the latest release from [here](https://github.com/AstroTech-666/green-path-app/releases/tag/v1.0.0).
+
 Contact
 For questions or feedback, feel free to reach out:
 
