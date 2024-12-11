@@ -39,7 +39,7 @@ Follow these steps to set up Green Path locally:
 ## Download
 
 Download version 1 of the Green Path app now, and stay tuned because a new version with revolutionary features is coming soon! 
-From an upgraded chatbot to exciting gamification element
+From an chatbot to gamification element
 You can download the first release from [here](https://github.com/AstroTech-666/green-path-app/releases/tag/v1.0.0).
 
 Contact
