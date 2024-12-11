@@ -37,7 +37,10 @@ Follow these steps to set up Green Path locally:
    flutter run
 
 ## Download
-You can download the latest release from [here](https://github.com/AstroTech-666/green-path-app/releases/tag/v1.0.0).
+
+Download version 1 of the Green Path app now, and stay tuned because a new version with revolutionary features is coming soon! 
+From an upgraded chatbot to exciting gamification element
+You can download the first release from [here](https://github.com/AstroTech-666/green-path-app/releases/tag/v1.0.0).
 
 Contact
 For questions or feedback, feel free to reach out:
