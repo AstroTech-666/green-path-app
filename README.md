@@ -44,4 +44,4 @@ For questions or feedback, feel free to reach out:
 
 Email: abdulzadafarzana38@gmail.com
 
-- Green Path Overview: Visit [Green Path](https://greenpathwebsite.netlify.app) for more information about the app's features.
+- Green Path Website: Visit [Green Path](https://greenpathwebsite.netlify.app)
