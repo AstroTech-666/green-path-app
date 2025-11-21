@@ -6,8 +6,6 @@ Green Path is an innovative mobile application designed to empower users to make
 
 ![App Screenshot](assets/app_photo.jpg)
 
-[![Green Path App Demo](https://img.youtube.com/vi/lOilVXKGOgQ/0.jpg)](https://www.youtube.com/watch?v=lOilVXKGOgQ)
-
 ## Features
 
 - **Carbon Footprint Calculator**: Calculate and reduce your carbon emissions.
@@ -18,6 +16,15 @@ Green Path is an innovative mobile application designed to empower users to make
 - **Sustainability Tips**: Access practical tips for living sustainably.
 - **Personal Goals**: Set and track your own environmental goals.
 - **Educational Resources**: Explore articles and materials on sustainability.
+
+## 📹 App Demo Video
+
+[![Green Path App Demo](https://img.youtube.com/vi/lOilVXKGOgQ/0.jpg)](https://www.youtube.com/watch?v=lOilVXKGOgQ)
+
+### ▶️ **Click the thumbnail above to watch the full demo!**
+
+See the app's features and interface in action.
+
 
 ## Installation
 
@@ -50,5 +57,6 @@ For questions or feedback, feel free to reach out:
 Email: abdulzadafarzana38@gmail.com
 
 - Green Path Website: Visit [Green Path](https://greenpathwebsite.netlify.app)
+
 
 
